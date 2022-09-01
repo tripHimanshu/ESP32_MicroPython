@@ -1,7 +1,7 @@
 # MicroPython Script for ESP32
 # Author: Himanshu Tripathi
 
-# ESP32 as web server
+# ESP32 as web server (Station Mode)
 # with the web server with ON and OFF buttons
 # control the on-board LED of ESP32
 
