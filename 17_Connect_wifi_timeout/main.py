@@ -2,6 +2,8 @@
 # Author: Himanshu Tripathi
 
 # connect ESP32 with wifi using timeout
+# enter your ssid and password in place of 'ssid' & 'psk'
+# in the function call statement 
 
 import network
 import time

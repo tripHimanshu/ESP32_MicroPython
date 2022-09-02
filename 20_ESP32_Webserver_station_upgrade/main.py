@@ -37,7 +37,7 @@ wlan.active(False)
 time.sleep(0.5)
 # enable wifi module (hardware)
 wlan.active(True)
-wlan.connect('ASF_GROUND_FLOOR','Skills@0077')
+wlan.connect('your ssid','your psk')
 if not wlan.isconnected():
     print('Connecting to network..')
     while not wlan.isconnected() and timeout < 10:
