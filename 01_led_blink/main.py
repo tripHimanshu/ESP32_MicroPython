@@ -20,4 +20,3 @@ while True:
     print("LED turned on" if led_state else "LED turned off")
     # wait for some time
     sleep(2)
-    
